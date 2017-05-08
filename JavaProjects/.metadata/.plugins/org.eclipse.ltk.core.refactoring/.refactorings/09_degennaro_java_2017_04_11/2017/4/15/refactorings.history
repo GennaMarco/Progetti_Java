@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;model.Prodotto.quantita&apos; in &apos;model.Prodotto&apos;&#x0D;&#x0A;- Original project: &apos;09_degennaro_java_2017_04_11&apos;&#x0D;&#x0A;- Original element: &apos;model.Prodotto.quantita&apos;&#x0D;&#x0A;- Getter method name: &apos;getQuantita&apos;&#x0D;&#x0A;- Setter method name: &apos;setQuantita&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;quantita&apos;" flags="589830" getter="getQuantita" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;model{Prodotto.java[Prodotto^quantita" insertion="9" setter="setQuantita" stamp="1491918695878" version="1.0" visibility="1"/>
+</session>
