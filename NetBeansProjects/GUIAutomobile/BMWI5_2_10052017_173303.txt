@@ -1,0 +1,7 @@
+Data di stampa: 10/05/2017 17:33:03
+Marca: BMW
+Modello: I5
+Cilindrata: 3200
+Alimentazione: IBRIDA
+Colore: Bianco
+Velocità max: 280 km/h

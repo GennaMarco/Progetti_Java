@@ -1,0 +1,31 @@
+Posizione: 0
+Marca: Fiat
+Modello: Punto
+Cilindrata: 1000
+Alimentazione: BENZINA
+Colore: Rosso
+Velocità max: 150 km/h
+
+Posizione: 1
+Marca: Ferrari
+Modello: Enzo
+Cilindrata: 3000
+Alimentazione: DIESEL
+Colore: Blu
+Velocità max: 330 km/h
+
+Posizione: 2
+Marca: BMW
+Modello: I5
+Cilindrata: 3200
+Alimentazione: IBRIDA
+Colore: Bianco
+Velocità max: 280 km/h
+
+Posizione: 3
+Marca: Fiat
+Modello: Punto
+Cilindrata: 1200
+Alimentazione: GPL
+Colore: Grigio
+Velocità max: 130 km/h

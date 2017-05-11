@@ -1,0 +1,7 @@
+Data di stampa: 10/05/2017 17:32:11
+Marca: Ferrari
+Modello: Enzo
+Cilindrata: 3000
+Alimentazione: DIESEL
+Colore: Blu
+Velocità max: 330 km/h
