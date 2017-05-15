@@ -3,19 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication2;
+package ascensori;
+
+import view.MasterAscensori;
 
 /**
  *
- * @author degennarom
+ * @author Marco
  */
-public class JavaApplication2 {
+public class Ascensori {
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) 
+    {
+        MasterAscensori ma = new MasterAscensori();
+        ma.setVisible(true);
     }
     
 }
