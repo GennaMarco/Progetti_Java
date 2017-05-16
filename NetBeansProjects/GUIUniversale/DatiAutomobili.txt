@@ -1,0 +1,31 @@
+Posizione: 0
+Marca: Fiat
+Modello: Punto
+Cilindrata: 1300
+Alimentazione: DIESEL
+Colore: Rosso
+Velocità max: 160 km/h
+
+Posizione: 1
+Marca: Fiat
+Modello: Panda
+Cilindrata: 1500
+Alimentazione: BENZINA
+Colore: Rosso
+Velocità max: 200 km/h
+
+Posizione: 2
+Marca: Fiat
+Modello: Punto
+Cilindrata: 1300
+Alimentazione: GPL
+Colore: Blu
+Velocità max: 140 km/h
+
+Posizione: 3
+Marca: Ferrari
+Modello: Enzo
+Cilindrata: 2600
+Alimentazione: BENZINA
+Colore: Nero
+Velocità max: 310 km/h

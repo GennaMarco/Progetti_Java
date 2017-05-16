@@ -1,0 +1,7 @@
+Data di stampa: 15/05/2017 23:16:16
+Nome: Alessia
+Cognome: Reina
+DataNascita: 01/01/1999
+LuogoNascita: torino
+Sesso: FEMMINA
+Eta: 18

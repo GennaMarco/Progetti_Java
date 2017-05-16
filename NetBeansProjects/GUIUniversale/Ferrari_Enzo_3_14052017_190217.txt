@@ -1,0 +1,7 @@
+Data di stampa: 14/05/2017 19:02:17
+Marca: Ferrari
+Modello: Enzo
+Cilindrata: 2600
+Alimentazione: BENZINA
+Colore: Nero
+Velocità max: 310 km/h

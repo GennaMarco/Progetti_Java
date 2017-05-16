@@ -1,0 +1,7 @@
+Data di stampa: 15/05/2017 23:16:27
+Nome: Marco
+Cognome: de Gennaro
+DataNascita: 01/09/1997
+LuogoNascita: Torino
+Sesso: MASCHIO
+Eta: 19

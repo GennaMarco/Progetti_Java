@@ -1,0 +1,7 @@
+Data di stampa: 15/05/2017 22:58:37
+Marca: Fiat
+Modello: Punto
+Cilindrata: 1300
+Alimentazione: DIESEL
+Colore: Rossa
+Velocità max: 160 km/h

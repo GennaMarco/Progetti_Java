@@ -1,0 +1,22 @@
+Data di stampa: 16/05/2017 23:13:25
+Codice: DFSLALVVM34
+Prezzo con iva: €1122.4
+Prezzo: €920.0
+Cliente: Nome: Alessandro
+Cognome: de gennaro
+Ragione sociale: 
+Indirizzo: Via dei Palazzi
+Cap: 10095
+Citta: Novara
+Provincia: Novara
+Email: alex.dege90@gmail.com
+Cellulare: 01182736
+Telefono: 
+Codice fiscale: DFSLALVVM34
+Partita iva: 12345678
+Computer: Processore{ Codice:a1p-01, Nome:I7, Prezzo:€290.0 }
+Memoria{ Codice:a7-01, Nome:2GB, Prezzo:€200.0 }
+HardDisk{ Codice:b2c-01, Nome:hd-900, Prezzo:€150.0 }
+Monitor{ Codice:a6-01, Nome:x-700, Prezzo:€190.0 }
+Tastiera{ Codice:a2-01, Nome:t-400, Prezzo:€60.0 }
+Mouse{ Codice:a15-01, Nome:e-299, Prezzo:€30.0 }

@@ -1,0 +1,7 @@
+Data di stampa: 15/05/2017 23:54:27
+Nome: Alessandro
+Cognome: de Gennaro
+DataNascita: 01/03/1990
+LuogoNascita: Rivoli
+Sesso: MASCHIO
+Eta: 27

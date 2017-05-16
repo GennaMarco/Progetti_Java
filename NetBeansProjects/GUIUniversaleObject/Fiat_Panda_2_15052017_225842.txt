@@ -1,0 +1,7 @@
+Data di stampa: 15/05/2017 22:58:42
+Marca: Fiat
+Modello: Panda
+Cilindrata: 1500
+Alimentazione: GPL
+Colore: Blu
+Velocità max: 160 km/h

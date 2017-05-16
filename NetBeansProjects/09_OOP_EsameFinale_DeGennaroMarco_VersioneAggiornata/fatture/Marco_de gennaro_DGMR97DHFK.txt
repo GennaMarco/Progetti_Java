@@ -1,0 +1,22 @@
+Data di stampa: 16/05/2017 23:11:21
+Codice: DGMR97DHFK
+Prezzo con iva: €951.6
+Prezzo: €780.0
+Cliente: Nome: Marco
+Cognome: de gennaro
+Ragione sociale: 
+Indirizzo: Via sestriere 67
+Cap: 10098
+Citta: Rivoli
+Provincia: Torino
+Email: marco.dege97@gmail.com
+Cellulare: 3557938477
+Telefono: 
+Codice fiscale: DGMR97DHFK
+Partita iva: 
+Computer: Processore{ Codice:a1-01, Nome:I5, Prezzo:€220.0 }
+Memoria{ Codice:a4-01, Nome:1GB, Prezzo:€150.0 }
+HardDisk{ Codice:b2-01, Nome:hd-600, Prezzo:€100.0 }
+Monitor{ Codice:a6-01, Nome:x-700, Prezzo:€190.0 }
+Tastiera{ Codice:a94-01, Nome:t-600, Prezzo:€70.0 }
+Mouse{ Codice:a8-01, Nome:e-134, Prezzo:€50.0 }

@@ -1,0 +1,7 @@
+Data di stampa: 14/05/2017 18:53:16
+Marca: Fiat
+Modello: Panda
+Cilindrata: 1500
+Alimentazione: BENZINA
+Colore: Rosso
+Velocità max: 200 km/h

@@ -1,0 +1,7 @@
+Data di stampa: 14/05/2017 18:53:32
+Marca: Fiat
+Modello: Punto
+Cilindrata: 1300
+Alimentazione: GPL
+Colore: Blu
+Velocità max: 140 km/h

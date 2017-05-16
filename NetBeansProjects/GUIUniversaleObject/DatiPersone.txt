@@ -1,0 +1,15 @@
+Posizione: 3
+Nome: Alessia
+Cognome: Reina
+DataNascita: 01/01/1999
+LuogoNascita: torino
+Sesso: FEMMINA
+Eta: 18
+
+Posizione: 4
+Nome: Marco
+Cognome: de Gennaro
+DataNascita: 01/09/1997
+LuogoNascita: Torino
+Sesso: MASCHIO
+Eta: 19

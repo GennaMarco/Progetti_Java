@@ -1,0 +1,7 @@
+Data di stampa: 15/05/2017 22:58:45
+Marca: BMW
+Modello: I5
+Cilindrata: 2900
+Alimentazione: IBRIDA
+Colore: Gialla
+Velocità max: 250 km/h
